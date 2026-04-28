@@ -155,6 +155,14 @@ h1, h2, h3, h4, h5, h6, .brand-font {
 .badge-soft-success { background-color: rgba(16, 185, 129, 0.1); color: var(--success); }
 .badge-soft-warning { background-color: rgba(245, 158, 11, 0.1); color: var(--warning); }
 .badge-soft-info { background-color: rgba(59, 130, 246, 0.1); color: var(--info); }
+.badge-soft-danger { background-color: rgba(244, 63, 94, 0.1); color: var(--accent); }
+
+/* SLA Warning Styles */
+.bg-danger-soft { background-color: rgba(244, 63, 94, 0.05) !important; }
+.border-urgent { border-left: 4px solid var(--accent) !important; }
+.table-hover > tbody > tr.bg-danger-soft:hover {
+    background-color: rgba(244, 63, 94, 0.08) !important;
+}
 
 /* Forms */
 .form-control, .form-select {
