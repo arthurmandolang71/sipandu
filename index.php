@@ -73,7 +73,7 @@
         <div class="hero-pattern"></div>
         <div class="container hero-content">
             <span class="badge bg-white bg-opacity-20 text-white mb-3 px-3 py-2 rounded-pill ls-1" style="backdrop-filter: blur(5px);">DISDUKCAPIL KOTA MANADO</span>
-            <h1 class="display-3 mb-3" style="font-weight: 800; letter-spacing: -1px;">Lacak Pengaduan Anda</h1>
+            <h1 class="display-3 mb-3 text-white" style="font-weight: 800; letter-spacing: -1px;">Lacak Pengaduan Anda</h1>
             <p class="lead mb-0 fw-light opacity-75 mx-auto" style="max-width: 600px;">Sistem terpadu untuk memantau status penyelesaian aduan Anda secara real-time dan transparan.</p>
         </div>
     </header>
